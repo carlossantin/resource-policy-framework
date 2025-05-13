@@ -1,0 +1,8 @@
+dir: '{{.InterfaceDir}}'
+filename: '{{.InterfaceName}}_mock.go'
+packages:
+  github.com/carlossantin/resource-policy-framework/auth:
+    interfaces:
+      PolicyRepository:
+      RoleRepository:
+      GroupRoleMappingRepository:
