@@ -3,6 +3,7 @@ module github.com/carlossantin/resource-policy-framework
 go 1.24.1
 
 require (
+	github.com/carlossantin/commons-structs v1.0.0
 	github.com/kamva/mgm/v3 v3.5.0
 	github.com/stretchr/testify v1.10.0
 	go.mongodb.org/mongo-driver v1.17.3

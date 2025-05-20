@@ -1,6 +1,9 @@
 package main
 
-import "github.com/carlossantin/resource-policy-framework/auth"
+import (
+	"github.com/carlossantin/commons-structs/commons"
+	"github.com/carlossantin/resource-policy-framework/auth"
+)
 
 func main() {
 	Setup()
@@ -17,4 +20,9 @@ func main() {
 	}
 
 	println(rl.ID)
+	cs := commons.CommonsStruct{
+		ID: rl.ID,
+	}
+
+	println(cs.ID)
 }

@@ -1,3 +1,5 @@
+github.com/carlossantin/commons-structs v1.0.0 h1:6ip41kB1VRUvgVc0E4vC6Df+6EmLuOLFzVPx1P0PwTo=
+github.com/carlossantin/commons-structs v1.0.0/go.mod h1:jDugiwwTlSLXA4ic7T9LLFzq3TCGmVfmxpK1qHkZj+I=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
